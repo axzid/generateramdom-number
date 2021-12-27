@@ -46,3 +46,11 @@ h1{
     border: none;
     border-radius: 5px;
 }
+@media screen and (max-width: 600px) {
+.container{
+    width: 80%;
+}    
+#tes{
+    font-size: 5rem;
+}
+}
